@@ -1,7 +1,7 @@
 # Toiletpaper.Exchange
 
 ## Goal of this project
-Education around arweave, profit sharing communities, currencies & decentralization.
+The [toiletpaper.exchange](https://toiletpaper.exchange) can be seen as a playful education and exploration game around [arweave](https://www.arweave.org/), [verto](https://verto.exchange/app), profit sharing communities, currencies & decentralization.
 
 
 ## Smart Contracts
