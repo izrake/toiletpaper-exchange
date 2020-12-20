@@ -44,7 +44,9 @@
       rel="noopener"
       >CBDC</a
     >) while paying with money which is from the people for the people - aka crypto money.
-    <p></p>
+    
+    <!-- replacing the following by PSTs for the Arweave based version -->
+    <!-- <p></p>
     With this we want to make your exploration regarding crypto currencies fun and
     valuable at the same time.
     <a
@@ -60,7 +62,7 @@
       rel="noopener"
       >EURWipePaper (EWP)</a
     >
-    available.
+    available. -->
 
     <p><br /></p>
     You might also check the launch of the digital
